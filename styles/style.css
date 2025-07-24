@@ -232,7 +232,7 @@ ul li {
 }
 
 .pic-3 {
-  background-image: url('/Images/Rectangle\ 6.png');
+  background-image: url('Images/Rectangle 6.png');
   background-repeat: no-repeat;
   width: 374px;
   height: 286px;
@@ -242,7 +242,7 @@ ul li {
 }
 
 .pic-4 {
-  background-image: url('/Images/Rectangle\ 7.png');
+  background-image: url('Images/Rectangle 7.png');
   background-repeat: no-repeat;
   width: 474px;
   height: 286px;
@@ -252,7 +252,7 @@ ul li {
 }
 
 .pic-5 {
-  background-image: url('/Images/Rectangle\ 9.png');
+  background-image: url('Images/Rectangle 9.png');
   background-repeat: no-repeat;
   width: 285px;
   height: 286px;
@@ -260,6 +260,7 @@ ul li {
   justify-content: center;
   align-items: center;
 }
+
 
 .row-3 {
   display: flex;
@@ -527,7 +528,7 @@ ul li {
 }
 
 .newsletter-image {
-  background-image: url('/Images/Rectangle 8 (1).png');
+  background-image: url('../Images/Rectangle 8 (1).png');
   background-repeat: no-repeat;
   width: 672px;
 }
